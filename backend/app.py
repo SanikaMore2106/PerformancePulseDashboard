@@ -5,7 +5,9 @@ from flask import Flask, jsonify
 # ---------------------------
 # 1️⃣ Load and Process Dataset
 # ---------------------------
-df = pd.read_csv("employee_performance_200.csv")
+import os
+BASE_DIR = os.path.dirname(os.path.abspath(_file_))
+df = pd.read_csv(os.path.join(BASE_DIR, "employee_performance_200.csv"))
 
 # Handle missing values
 df.fillna(0, inplace=True)
@@ -74,5 +76,7 @@ def get_department_stats():
 # ---------------------------
 # 4️⃣ Run the Server
 # ---------------------------
-if __name__ == '__main__':
-    app.run(debug=True)
+if _name_ == "_main_":
+    import os
+    port = int(os.environ.get("PORT", 5000))
+    app.run(host="0.0.0.0", port=port)
