@@ -1,0 +1,201 @@
+EmployeeID,Name,Department,JobTitle,ExperienceYears,PerformanceScore,ProjectsCompleted,MonthlySalary,AttendanceRate (%),LastPromotionYear,Status,Feedback,Efficiency (%),Performance_Level
+E0001,Employee_1,R&D,Intern,5,4.37,56,115474,83,2018,Active,Positive attitude towards learning.,112.0,Medium
+E0002,Employee_2,Marketing,Manager,16,2.27,65,27443,96,2015,Active,Shows strong technical skills.,40.625,Low
+E0003,Employee_3,Sales,Team Lead,19,3.48,23,100993,96,2019,Active,Missed a few important targets.,12.105263157894736,Low
+E0004,Employee_4,R&D,Intern,4,2.17,37,100916,85,2023,Active,Shows strong technical skills.,92.5,Low
+E0005,Employee_5,Finance,Executive,3,3.65,11,98319,88,2022,Active,Needs improvement in meeting deadlines.,36.666666666666664,Medium
+E0006,Employee_6,Sales,Executive,17,3.32,35,42368,78,2023,Active,Missed a few important targets.,20.588235294117645,Low
+E0007,Employee_7,Sales,Executive,17,4.66,23,40328,87,2024,Active,Missed a few important targets.,13.529411764705884,High
+E0008,Employee_8,R&D,Executive,12,3.05,68,81942,76,2023,Active,Positive attitude towards learning.,56.66666666666667,Low
+E0009,Employee_9,HR,Executive,14,2.35,65,116751,97,2021,Active,Struggles with workload management.,46.42857142857143,Low
+E0010,Employee_10,Finance,Intern,6,2.43,16,52306,79,2018,Active,Missed a few important targets.,26.666666666666664,Low
+E0011,Employee_11,R&D,Intern,3,4.28,12,110451,85,2019,Active,Excellent leadership qualities.,40.0,Medium
+E0012,Employee_12,Finance,Developer,9,3.85,32,64915,80,2015,Active,Missed a few important targets.,35.55555555555556,Medium
+E0013,Employee_13,Finance,Analyst,5,2.3,27,62219,92,2015,Active,Struggles with workload management.,54.0,Low
+E0014,Employee_14,Sales,Coordinator,17,2.25,47,105879,95,2017,Active,Shows strong technical skills.,27.647058823529413,Low
+E0015,Employee_15,Marketing,Executive,14,4.1,24,89644,84,2022,Active,Needs improvement in meeting deadlines.,17.142857142857142,Medium
+E0016,Employee_16,Finance,Manager,3,2.22,73,85279,78,2016,Active,Good communication skills.,243.33333333333331,Low
+E0017,Employee_17,Operations,Coordinator,1,4.47,37,78028,83,2018,Active,Great teamwork and consistent performance!,370.0,Medium
+E0018,Employee_18,Sales,Intern,1,4.12,48,25126,80,2016,Active,Positive attitude towards learning.,480.0,Medium
+E0019,Employee_19,HR,Manager,3,2.24,66,77329,76,2019,Active,Excellent leadership qualities.,220.0,Low
+E0020,Employee_20,Marketing,Manager,18,2.25,26,52632,91,2023,Active,Always helpful and reliable.,14.444444444444445,Low
+E0021,Employee_21,Operations,Manager,10,4.96,53,90310,79,2015,Inactive,Missed a few important targets.,53.0,High
+E0022,Employee_22,Operations,Developer,3,3.12,34,80176,99,2019,Inactive,Great teamwork and consistent performance!,113.33333333333334,Low
+E0023,Employee_23,HR,Intern,8,3.11,26,111066,80,2023,Active,Excellent leadership qualities.,32.5,Low
+E0024,Employee_24,Marketing,Manager,14,4.44,22,69327,86,2015,Active,Average performance this quarter.,15.714285714285714,Medium
+E0025,Employee_25,Sales,Executive,18,4.84,34,93904,97,2023,Active,Needs improvement in meeting deadlines.,18.88888888888889,High
+E0026,Employee_26,IT,Team Lead,15,4.96,77,28797,95,2022,Active,Needs improvement in meeting deadlines.,51.333333333333336,High
+E0027,Employee_27,Marketing,Manager,2,4.26,19,72882,84,2018,Active,Shows strong technical skills.,95.0,Medium
+E0028,Employee_28,HR,Developer,10,3.13,76,38718,96,2024,Active,Positive attitude towards learning.,76.0,Low
+E0029,Employee_29,Operations,Coordinator,2,2.25,27,59560,95,2019,Active,Shows strong technical skills.,135.0,Low
+E0030,Employee_30,Sales,Intern,17,4.33,43,101589,99,2019,Active,Good communication skills.,25.294117647058822,Medium
+E0031,Employee_31,Marketing,Developer,8,3.68,17,47116,80,2020,Active,Struggles with workload management.,21.25,Medium
+E0032,Employee_32,IT,Manager,1,3.27,49,61244,82,2021,Active,Needs improvement in meeting deadlines.,490.0,Low
+E0033,Employee_33,IT,Intern,9,4.72,51,26645,76,2022,Active,Great teamwork and consistent performance!,56.66666666666667,High
+E0034,Employee_34,Finance,Team Lead,11,2.33,50,72523,86,2022,Active,Good communication skills.,45.45454545454546,Low
+E0035,Employee_35,Finance,Manager,16,3.48,15,44256,87,2016,Active,Always helpful and reliable.,9.375,Low
+E0036,Employee_36,R&D,Developer,7,2.03,61,78173,99,2023,Inactive,Great teamwork and consistent performance!,87.14285714285714,Low
+E0037,Employee_37,HR,Analyst,10,3.41,35,62430,95,2021,Active,Needs improvement in meeting deadlines.,35.0,Low
+E0038,Employee_38,Marketing,Executive,3,2.17,73,64282,81,2018,Active,Always helpful and reliable.,243.33333333333331,Low
+E0039,Employee_39,Marketing,Coordinator,18,2.36,68,88374,84,2018,Active,Always helpful and reliable.,37.77777777777778,Low
+E0040,Employee_40,R&D,Developer,13,2.35,65,93244,87,2022,Active,Excellent leadership qualities.,50.0,Low
+E0041,Employee_41,Operations,Intern,7,3.95,68,36694,91,2018,Inactive,Shows strong technical skills.,97.14285714285714,Medium
+E0042,Employee_42,Operations,Manager,4,4.24,79,81264,95,2020,Active,Shows strong technical skills.,197.5,Medium
+E0043,Employee_43,R&D,Executive,13,3.75,42,100060,88,2019,Active,Shows strong technical skills.,32.30769230769231,Medium
+E0044,Employee_44,Operations,Manager,1,4.89,62,82545,76,2017,Active,Struggles with workload management.,620.0,High
+E0045,Employee_45,Finance,Intern,8,3.12,31,64224,96,2024,Inactive,Average performance this quarter.,38.75,Low
+E0046,Employee_46,Marketing,Manager,14,2.86,30,38224,85,2016,Inactive,Great teamwork and consistent performance!,21.428571428571427,Low
+E0047,Employee_47,R&D,Analyst,16,4.61,79,65738,75,2023,Active,Shows strong technical skills.,49.375,High
+E0048,Employee_48,Marketing,Executive,14,2.67,79,50150,93,2024,Active,Missed a few important targets.,56.42857142857143,Low
+E0049,Employee_49,IT,Executive,12,4.89,13,88731,95,2023,Active,Good communication skills.,10.833333333333332,High
+E0050,Employee_50,Finance,Intern,19,2.04,71,74688,78,2015,Active,Great teamwork and consistent performance!,37.36842105263158,Low
+E0051,Employee_51,Sales,Coordinator,15,4.91,71,98509,93,2024,Active,Average performance this quarter.,47.333333333333336,High
+E0052,Employee_52,Finance,Analyst,2,2.13,33,33577,95,2017,Active,Positive attitude towards learning.,165.0,Low
+E0053,Employee_53,R&D,Developer,2,4.67,64,33070,85,2022,Active,Excellent leadership qualities.,320.0,High
+E0054,Employee_54,Sales,Manager,19,3.58,18,33666,82,2020,Active,Excellent leadership qualities.,9.473684210526315,Medium
+E0055,Employee_55,IT,Team Lead,17,4.98,12,82761,85,2019,Active,Struggles with workload management.,7.058823529411765,High
+E0056,Employee_56,R&D,Manager,10,2.22,40,61368,78,2019,Active,Positive attitude towards learning.,40.0,Low
+E0057,Employee_57,HR,Manager,6,3.66,49,31783,91,2020,Inactive,Good communication skills.,81.66666666666666,Medium
+E0058,Employee_58,Marketing,Developer,15,4.91,45,66914,81,2021,Active,Good communication skills.,30.0,High
+E0059,Employee_59,IT,Manager,11,3.57,33,95507,82,2015,Active,Average performance this quarter.,30.0,Medium
+E0060,Employee_60,Marketing,Analyst,5,3.89,15,104026,77,2023,Active,Always helpful and reliable.,30.0,Medium
+E0061,Employee_61,Operations,Analyst,1,4.09,75,92526,96,2017,Active,Always helpful and reliable.,750.0,Medium
+E0062,Employee_62,HR,Executive,8,3.36,13,95835,76,2018,Active,Shows strong technical skills.,16.25,Low
+E0063,Employee_63,HR,Intern,12,3.88,15,70765,97,2024,Active,Positive attitude towards learning.,12.5,Medium
+E0064,Employee_64,IT,Coordinator,12,3.75,60,44956,89,2015,Active,Struggles with workload management.,50.0,Medium
+E0065,Employee_65,HR,Team Lead,5,4.7,71,112895,98,2024,Inactive,Needs improvement in meeting deadlines.,142.0,High
+E0066,Employee_66,Sales,Manager,7,2.14,66,71240,96,2017,Active,Excellent leadership qualities.,94.28571428571429,Low
+E0067,Employee_67,HR,Manager,4,2.84,75,62148,96,2016,Active,Good communication skills.,187.5,Low
+E0068,Employee_68,Marketing,Developer,6,4.85,17,119270,79,2016,Active,Excellent leadership qualities.,28.333333333333336,High
+E0069,Employee_69,Marketing,Intern,13,4.67,35,29757,98,2015,Active,Always helpful and reliable.,26.923076923076927,High
+E0070,Employee_70,R&D,Analyst,15,3.37,60,44097,75,2022,Active,Average performance this quarter.,40.0,Low
+E0071,Employee_71,Marketing,Team Lead,3,3.86,54,35395,78,2017,Inactive,Needs improvement in meeting deadlines.,180.0,Medium
+E0072,Employee_72,R&D,Executive,8,2.83,53,41241,89,2017,Active,Great teamwork and consistent performance!,66.25,Low
+E0073,Employee_73,Marketing,Analyst,16,2.56,14,52696,94,2020,Active,Missed a few important targets.,8.75,Low
+E0074,Employee_74,Sales,Intern,13,3.39,79,95480,93,2022,Active,Struggles with workload management.,60.76923076923077,Low
+E0075,Employee_75,R&D,Coordinator,18,3.06,35,71163,77,2023,Active,Struggles with workload management.,19.444444444444443,Low
+E0076,Employee_76,Finance,Executive,10,3.75,77,44816,94,2023,Active,Shows strong technical skills.,77.0,Medium
+E0077,Employee_77,Operations,Coordinator,19,2.23,28,74840,85,2018,Active,Positive attitude towards learning.,14.736842105263158,Low
+E0078,Employee_78,IT,Developer,17,4.92,29,77853,91,2019,Inactive,Shows strong technical skills.,17.058823529411764,High
+E0079,Employee_79,Marketing,Developer,19,4.96,21,49917,87,2016,Inactive,Shows strong technical skills.,11.05263157894737,High
+E0080,Employee_80,HR,Manager,5,4.09,56,46566,85,2023,Active,Shows strong technical skills.,112.0,Medium
+E0081,Employee_81,Marketing,Coordinator,9,3.61,10,100452,76,2022,Active,Always helpful and reliable.,11.11111111111111,Medium
+E0082,Employee_82,HR,Intern,12,2.93,23,87823,83,2017,Active,Excellent leadership qualities.,19.166666666666668,Low
+E0083,Employee_83,Operations,Team Lead,1,4.44,73,45806,76,2023,Active,Always helpful and reliable.,730.0,Medium
+E0084,Employee_84,Operations,Executive,1,4.05,47,100520,95,2017,Active,Missed a few important targets.,470.0,Medium
+E0085,Employee_85,Operations,Analyst,15,2.49,46,26759,83,2023,Active,Positive attitude towards learning.,30.666666666666668,Low
+E0086,Employee_86,HR,Intern,2,4.73,20,66949,83,2016,Active,Excellent leadership qualities.,100.0,High
+E0087,Employee_87,Marketing,Intern,16,4.47,12,117374,82,2024,Active,Missed a few important targets.,7.5,Medium
+E0088,Employee_88,Operations,Developer,8,4.85,42,27482,91,2023,Active,Missed a few important targets.,52.5,High
+E0089,Employee_89,Sales,Coordinator,13,4.18,15,49442,75,2022,Active,Always helpful and reliable.,11.538461538461537,Medium
+E0090,Employee_90,R&D,Manager,1,3.84,59,58719,99,2023,Active,Excellent leadership qualities.,590.0,Medium
+E0091,Employee_91,HR,Manager,16,3.25,19,83066,85,2019,Active,Average performance this quarter.,11.875,Low
+E0092,Employee_92,HR,Executive,7,4.8,14,118501,82,2016,Active,Always helpful and reliable.,20.0,High
+E0093,Employee_93,Marketing,Developer,5,4.6,32,27079,84,2022,Active,Positive attitude towards learning.,64.0,High
+E0094,Employee_94,HR,Intern,3,2.14,19,27717,99,2020,Active,Average performance this quarter.,63.33333333333333,Low
+E0095,Employee_95,HR,Team Lead,12,2.08,53,84676,81,2022,Active,Great teamwork and consistent performance!,44.16666666666667,Low
+E0096,Employee_96,Operations,Developer,16,3.13,11,52952,77,2019,Active,Shows strong technical skills.,6.875,Low
+E0097,Employee_97,Marketing,Executive,19,4.43,22,111444,77,2024,Active,Needs improvement in meeting deadlines.,11.578947368421053,Medium
+E0098,Employee_98,Operations,Executive,5,4.96,49,67460,92,2016,Active,Shows strong technical skills.,98.0,High
+E0099,Employee_99,R&D,Developer,14,2.45,11,115397,79,2020,Active,Shows strong technical skills.,7.857142857142857,Low
+E0100,Employee_100,R&D,Executive,5,3.78,74,97847,86,2019,Active,Average performance this quarter.,148.0,Medium
+E0101,Employee_101,Operations,Developer,15,3.14,72,118607,86,2019,Active,Missed a few important targets.,48.0,Low
+E0102,Employee_102,R&D,Analyst,17,4.91,26,114106,93,2015,Active,Great teamwork and consistent performance!,15.294117647058822,High
+E0103,Employee_103,Marketing,Developer,14,4.53,18,43449,80,2016,Active,Excellent leadership qualities.,12.857142857142858,High
+E0104,Employee_104,IT,Coordinator,5,4.51,24,58536,76,2022,Active,Great teamwork and consistent performance!,48.0,High
+E0105,Employee_105,Operations,Developer,12,3.41,33,89077,86,2017,Active,Average performance this quarter.,27.5,Low
+E0106,Employee_106,Sales,Executive,16,3.24,47,63258,93,2024,Active,Good communication skills.,29.375,Low
+E0107,Employee_107,Sales,Coordinator,16,2.82,44,73302,79,2017,Active,Needs improvement in meeting deadlines.,27.5,Low
+E0108,Employee_108,HR,Executive,7,2.17,58,53865,86,2022,Active,Average performance this quarter.,82.85714285714286,Low
+E0109,Employee_109,R&D,Manager,4,4.59,78,31645,91,2022,Active,Shows strong technical skills.,195.0,High
+E0110,Employee_110,Sales,Manager,1,4.44,71,63000,91,2016,Active,Average performance this quarter.,710.0,Medium
+E0111,Employee_111,HR,Coordinator,5,5.0,69,51737,84,2022,Active,Missed a few important targets.,138.0,High
+E0112,Employee_112,IT,Analyst,10,4.99,59,36485,99,2015,Active,Great teamwork and consistent performance!,59.0,High
+E0113,Employee_113,Marketing,Manager,5,3.67,18,63565,97,2020,Active,Positive attitude towards learning.,36.0,Medium
+E0114,Employee_114,Marketing,Developer,4,4.31,43,50522,91,2022,Active,Average performance this quarter.,107.5,Medium
+E0115,Employee_115,Marketing,Executive,2,4.83,44,90155,89,2017,Active,Average performance this quarter.,220.0,High
+E0116,Employee_116,Sales,Manager,10,4.55,10,80168,86,2022,Inactive,Good communication skills.,10.0,High
+E0117,Employee_117,IT,Manager,19,2.74,49,77487,90,2015,Active,Struggles with workload management.,25.789473684210527,Low
+E0118,Employee_118,Sales,Analyst,1,3.35,73,37342,98,2023,Active,Good communication skills.,730.0,Low
+E0119,Employee_119,R&D,Coordinator,5,2.39,31,65806,93,2023,Active,Shows strong technical skills.,62.0,Low
+E0120,Employee_120,Sales,Coordinator,13,4.86,69,73770,82,2019,Active,Shows strong technical skills.,53.07692307692307,High
+E0121,Employee_121,IT,Intern,4,3.82,73,103623,95,2024,Active,Good communication skills.,182.5,Medium
+E0122,Employee_122,IT,Analyst,16,2.69,20,100629,91,2018,Active,Needs improvement in meeting deadlines.,12.5,Low
+E0123,Employee_123,R&D,Developer,16,4.02,23,77603,97,2020,Active,Always helpful and reliable.,14.375,Medium
+E0124,Employee_124,IT,Coordinator,2,3.85,69,106974,79,2021,Active,Needs improvement in meeting deadlines.,345.0,Medium
+E0125,Employee_125,IT,Executive,17,3.07,39,51399,96,2019,Active,Shows strong technical skills.,22.941176470588232,Low
+E0126,Employee_126,Marketing,Analyst,12,2.34,44,110382,90,2024,Active,Good communication skills.,36.666666666666664,Low
+E0127,Employee_127,R&D,Manager,18,4.01,46,106244,80,2023,Active,Shows strong technical skills.,25.555555555555554,Medium
+E0128,Employee_128,Finance,Executive,3,3.56,14,101534,82,2017,Active,Missed a few important targets.,46.66666666666667,Medium
+E0129,Employee_129,Finance,Executive,1,4.32,35,80106,99,2021,Active,Excellent leadership qualities.,350.0,Medium
+E0130,Employee_130,IT,Manager,1,3.56,71,55678,92,2024,Active,Shows strong technical skills.,710.0,Medium
+E0131,Employee_131,Finance,Analyst,19,4.56,13,101218,99,2024,Active,Needs improvement in meeting deadlines.,6.842105263157895,High
+E0132,Employee_132,Finance,Manager,11,3.66,51,88230,86,2019,Inactive,Always helpful and reliable.,46.36363636363637,Medium
+E0133,Employee_133,IT,Intern,5,3.68,27,99055,89,2021,Active,Good communication skills.,54.0,Medium
+E0134,Employee_134,Finance,Executive,12,4.63,49,81373,83,2016,Active,Average performance this quarter.,40.83333333333333,High
+E0135,Employee_135,Sales,Team Lead,3,3.21,48,56480,87,2018,Active,Excellent leadership qualities.,160.0,Low
+E0136,Employee_136,HR,Team Lead,1,2.4,23,110230,89,2016,Active,Good communication skills.,230.0,Low
+E0137,Employee_137,R&D,Developer,1,2.09,41,93836,84,2021,Active,Shows strong technical skills.,410.0,Low
+E0138,Employee_138,HR,Coordinator,8,4.27,60,97258,90,2016,Active,Good communication skills.,75.0,Medium
+E0139,Employee_139,IT,Manager,10,3.86,47,64986,81,2015,Active,Struggles with workload management.,47.0,Medium
+E0140,Employee_140,Marketing,Manager,11,4.11,32,49160,91,2023,Active,Excellent leadership qualities.,29.090909090909093,Medium
+E0141,Employee_141,R&D,Developer,12,2.64,72,110595,97,2015,Active,Needs improvement in meeting deadlines.,60.0,Low
+E0142,Employee_142,IT,Developer,13,2.41,24,104111,95,2022,Active,Good communication skills.,18.461538461538463,Low
+E0143,Employee_143,Marketing,Developer,12,2.04,34,89929,96,2016,Active,Good communication skills.,28.333333333333336,Low
+E0144,Employee_144,HR,Executive,14,3.05,26,98506,81,2022,Active,Shows strong technical skills.,18.571428571428573,Low
+E0145,Employee_145,IT,Intern,2,3.77,75,59911,88,2017,Active,Missed a few important targets.,375.0,Medium
+E0146,Employee_146,R&D,Manager,19,3.18,62,112127,89,2020,Active,Needs improvement in meeting deadlines.,32.63157894736842,Low
+E0147,Employee_147,R&D,Executive,18,3.31,60,56821,95,2017,Active,Shows strong technical skills.,33.333333333333336,Low
+E0148,Employee_148,Operations,Developer,3,4.71,48,100039,81,2021,Active,Good communication skills.,160.0,High
+E0149,Employee_149,Sales,Manager,17,3.04,60,85535,83,2024,Active,Struggles with workload management.,35.294117647058826,Low
+E0150,Employee_150,Finance,Executive,8,3.54,79,109458,93,2023,Active,Always helpful and reliable.,98.75,Medium
+E0151,Employee_151,Marketing,Intern,10,4.35,15,37175,90,2016,Active,Struggles with workload management.,15.0,Medium
+E0152,Employee_152,Operations,Executive,2,3.19,76,79771,82,2019,Active,Good communication skills.,380.0,Low
+E0153,Employee_153,Finance,Intern,19,3.87,16,111925,92,2020,Active,Great teamwork and consistent performance!,8.421052631578947,Medium
+E0154,Employee_154,Finance,Developer,9,4.59,60,91358,97,2018,Active,Excellent leadership qualities.,66.66666666666667,High
+E0155,Employee_155,IT,Intern,7,4.85,51,42327,92,2018,Active,Great teamwork and consistent performance!,72.85714285714286,High
+E0156,Employee_156,Finance,Manager,4,2.44,73,72057,94,2018,Active,Good communication skills.,182.5,Low
+E0157,Employee_157,Sales,Developer,18,4.78,24,31150,81,2016,Active,Great teamwork and consistent performance!,13.333333333333332,High
+E0158,Employee_158,R&D,Manager,13,3.48,38,29425,77,2018,Active,Needs improvement in meeting deadlines.,29.23076923076923,Low
+E0159,Employee_159,Operations,Team Lead,11,2.77,42,41032,92,2015,Active,Needs improvement in meeting deadlines.,38.18181818181819,Low
+E0160,Employee_160,Finance,Analyst,4,3.38,36,27198,84,2020,Active,Struggles with workload management.,90.0,Low
+E0161,Employee_161,IT,Intern,4,4.94,45,85500,81,2015,Active,Positive attitude towards learning.,112.5,High
+E0162,Employee_162,Sales,Analyst,10,3.48,38,78394,91,2024,Active,Great teamwork and consistent performance!,38.0,Low
+E0163,Employee_163,HR,Analyst,5,2.99,47,45079,88,2020,Active,Positive attitude towards learning.,94.0,Low
+E0164,Employee_164,R&D,Intern,9,3.9,66,61220,98,2015,Active,Average performance this quarter.,73.33333333333333,Medium
+E0165,Employee_165,R&D,Developer,3,2.72,36,66874,77,2020,Active,Needs improvement in meeting deadlines.,120.0,Low
+E0166,Employee_166,Operations,Team Lead,17,2.23,64,38859,86,2024,Active,Shows strong technical skills.,37.64705882352941,Low
+E0167,Employee_167,R&D,Manager,3,2.39,42,75460,87,2022,Active,Always helpful and reliable.,140.0,Low
+E0168,Employee_168,Finance,Executive,16,2.38,77,56419,76,2016,Active,Good communication skills.,48.125,Low
+E0169,Employee_169,IT,Manager,4,2.46,75,33705,77,2016,Active,Needs improvement in meeting deadlines.,187.5,Low
+E0170,Employee_170,R&D,Executive,18,2.42,19,67880,79,2018,Active,Always helpful and reliable.,10.555555555555555,Low
+E0171,Employee_171,R&D,Manager,17,3.92,14,48236,85,2017,Active,Missed a few important targets.,8.235294117647058,Medium
+E0172,Employee_172,HR,Intern,7,2.55,47,112955,82,2018,Inactive,Needs improvement in meeting deadlines.,67.14285714285714,Low
+E0173,Employee_173,HR,Team Lead,5,3.04,22,110514,97,2021,Active,Missed a few important targets.,44.0,Low
+E0174,Employee_174,Marketing,Executive,12,4.69,40,40358,97,2015,Active,Shows strong technical skills.,33.333333333333336,High
+E0175,Employee_175,Sales,Coordinator,17,3.42,56,119914,86,2020,Active,Average performance this quarter.,32.94117647058823,Low
+E0176,Employee_176,Finance,Developer,13,4.0,61,101918,81,2017,Active,Excellent leadership qualities.,46.92307692307693,Medium
+E0177,Employee_177,R&D,Manager,3,2.52,65,39596,89,2024,Active,Shows strong technical skills.,216.66666666666669,Low
+E0178,Employee_178,R&D,Manager,9,2.58,24,58572,98,2021,Active,Needs improvement in meeting deadlines.,26.666666666666664,Low
+E0179,Employee_179,IT,Executive,17,2.12,38,103757,91,2024,Active,Excellent leadership qualities.,22.352941176470587,Low
+E0180,Employee_180,Marketing,Developer,17,2.51,17,26279,78,2016,Active,Missed a few important targets.,10.0,Low
+E0181,Employee_181,Sales,Developer,16,2.84,14,88197,96,2016,Active,Struggles with workload management.,8.75,Low
+E0182,Employee_182,Marketing,Intern,13,2.53,38,87516,99,2018,Active,Needs improvement in meeting deadlines.,29.23076923076923,Low
+E0183,Employee_183,Operations,Coordinator,19,2.27,56,32083,87,2015,Active,Good communication skills.,29.473684210526315,Low
+E0184,Employee_184,Sales,Intern,17,2.36,77,42771,92,2017,Active,Excellent leadership qualities.,45.294117647058826,Low
+E0185,Employee_185,R&D,Intern,4,3.38,54,54975,75,2023,Active,Positive attitude towards learning.,135.0,Low
+E0186,Employee_186,R&D,Intern,12,2.62,11,70648,90,2021,Inactive,Excellent leadership qualities.,9.166666666666666,Low
+E0187,Employee_187,Sales,Intern,9,3.09,36,73285,87,2021,Active,Shows strong technical skills.,40.0,Low
+E0188,Employee_188,R&D,Intern,19,3.51,45,44063,84,2018,Active,Shows strong technical skills.,23.684210526315788,Medium
+E0189,Employee_189,Finance,Team Lead,12,4.07,45,92642,86,2016,Active,Needs improvement in meeting deadlines.,37.5,Medium
+E0190,Employee_190,Sales,Developer,9,2.12,35,115093,76,2018,Active,Excellent leadership qualities.,38.888888888888886,Low
+E0191,Employee_191,Marketing,Intern,7,4.4,52,111143,97,2020,Active,Missed a few important targets.,74.28571428571429,Medium
+E0192,Employee_192,Sales,Developer,14,3.88,36,62599,77,2017,Active,Missed a few important targets.,25.714285714285715,Medium
+E0193,Employee_193,R&D,Developer,19,2.25,78,76920,84,2015,Active,Missed a few important targets.,41.05263157894737,Low
+E0194,Employee_194,Finance,Analyst,15,4.62,29,53529,76,2022,Active,Always helpful and reliable.,19.333333333333332,High
+E0195,Employee_195,Finance,Team Lead,16,4.76,20,60954,97,2019,Active,Always helpful and reliable.,12.5,High
+E0196,Employee_196,Operations,Intern,5,2.18,47,52856,87,2019,Active,Average performance this quarter.,94.0,Low
+E0197,Employee_197,Marketing,Manager,3,2.83,15,27573,87,2018,Active,Missed a few important targets.,50.0,Low
+E0198,Employee_198,HR,Executive,12,4.42,32,103344,92,2020,Active,Great teamwork and consistent performance!,26.666666666666664,Medium
+E0199,Employee_199,HR,Coordinator,4,4.24,56,60367,77,2017,Active,Great teamwork and consistent performance!,140.0,Medium
+E0200,Employee_200,Sales,Manager,16,2.55,55,85774,81,2023,Active,Positive attitude towards learning.,34.375,Low
